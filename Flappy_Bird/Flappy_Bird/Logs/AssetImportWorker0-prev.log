@@ -1,0 +1,109 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.964; Version 2009; 64bit' Language: 'en' Physical Memory: 3971 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Workspace/MyGame/Game_unity/Flappy_Bird/Flappy_Bird
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59347
+Successfully changed project path to: D:/Workspace/MyGame/Game_unity/Flappy_Bird/Flappy_Bird
+D:/Workspace/MyGame/Game_unity/Flappy_Bird/Flappy_Bird
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 81.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path D:/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Workspace/MyGame/Game_unity/Flappy_Bird/Flappy_Bird/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   
+    VRAM:     1985 MB
+    Driver:   20.19.15.5126
+Initialize mono
+Mono path[0] = 'D:/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005956 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 67.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.341 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002469 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 103.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.865 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2274.
+Total: 3.514400 ms (FindLiveObjects: 0.355300 ms CreateObjectMapping: 0.185300 ms MarkObjects: 2.755900 ms  DeleteObjects: 0.215400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Spawn2.cs
+  artifactKey: Guid(0e38f28350f995643a8ba124d231efa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spawn2.cs using Guid(0e38f28350f995643a8ba124d231efa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a4030a6b1465a5dedd0f19d17cf856') in 0.064651 seconds
+  Import took 0.075411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000690 seconds.
+  path: Assets/Control.cs
+  artifactKey: Guid(6f2c6536222ccc34a961aec0217f22d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Control.cs using Guid(6f2c6536222ccc34a961aec0217f22d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ed85678bd8934bab345389fedaa996') in 0.003479 seconds
+  Import took 0.020433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Scenes/ScenePlayer2.unity
+  artifactKey: Guid(4584a5d4baa6b804186ba8233620804a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ScenePlayer2.unity using Guid(4584a5d4baa6b804186ba8233620804a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c31ca9d1ebd8d4f941a91d35cbc210') in 0.023964 seconds
+  Import took 0.031394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Spawn.cs
+  artifactKey: Guid(6356dd8fda1f0e8479435ae4dd408754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spawn.cs using Guid(6356dd8fda1f0e8479435ae4dd408754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39dafc2e0ead893842f3174fa810a4cd') in 0.002131 seconds
+  Import took 0.008723 seconds .
+

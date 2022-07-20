@@ -1,0 +1,13 @@
+Xin chào người chơi, bạn có thấy phòng tin khá là nhàm chán không ?
+Chỉ toàn là ngồi soạn thảo văn bản, bla bla ...
+Chính vì muốn làm cho phòng tin đỡ nhàm chán hơn nên chúng tôi quyết định làm mấy con game hay ho để chơi.
+Đây là trò chơi đầu tiên của chúng tôi, trò chơi được dựa theo trò Flappy Bird (Thực chất nó là trò chơi Flappy Bird nhưng do chúng tôi làm lại :)) ).
+Tuy nhiên thực chất chúng tôi mới chỉ là newbie, chưa có kinh nghiệm gì :((.
+Vì vậy nếu bạn thấy game có lỗi, có những chỗ cần sửa, hoặc các bạn có những ý tưởng game mới muốn chúng tôi thực hiện thì hãy viết lại những bình luận của bạn vào mục " Comment ".
+Chúng tôi sẽ xem xét, và sửa chữa.
+Nếu bạn thích trò chơi của chúng tôi thì hãy để lại 1 like, đó là động lực để chúng tôi phát triển hơn nữa
+Chúng tôi sẽ còn làm thêm nhiều trò chơi nữa trong tương lai. 
+
+Thanks for Reading
+
+Bye. 
